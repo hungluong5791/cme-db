@@ -1,6 +1,6 @@
 #!/bin/bash
 CLUSTER="cme-devops-db"
-SERVICE="mongodb"
+SERVICE="cme-devops-db"
 TASK_FAMILY="cme-devops-db"
 
 DOCKER_REGISTRY="768738047170.dkr.ecr.us-east-1.amazonaws.com"
